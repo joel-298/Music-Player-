@@ -225,20 +225,22 @@ background:linear-gradient(rgb(11, 40, 45),rgb(18, 78, 89)); */
 }
 
 .col2::-webkit-scrollbar{
-    width:10px;
+    width:0px;
     background:transparent;
 }
 .col2::-webkit-scrollbar-thumb{
-    width:10px;border-radius: 10px;
+    width:0px;
+    /* border-radius: 10px; */
     background:transparent;
 } 
 
 .col2:hover::-webkit-scrollbar{
-    width:10px;
+    width:0px;
     background:transparent;
 }
 .col2:hover::-webkit-scroll-thumb{
-    width:10px;border-radius:10px;
+    width:0px;
+    /* border-radius:10px; */
     background:rgb(98, 107, 109);
 } 
 /***/
