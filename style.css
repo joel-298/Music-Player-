@@ -373,7 +373,8 @@ background:linear-gradient(rgb(11, 40, 45),rgb(18, 78, 89)); */
     border-radius: 10px;
     /* background:rgb(12, 12, 12); */
     /* background:rgb(1, 7, 9); */
-    background:black;
+    background:rgb(15, 15, 16);
+    box-shadow:0px 0px 50px 0px rgb(33, 33, 33);
 }    
 .trending{
     width: 30%;background-color: rgb(11,11,11);color:white;font-family: 'Libre Baskerville', serif;
@@ -404,7 +405,8 @@ background:linear-gradient(rgb(11, 40, 45),rgb(18, 78, 89)); */
     border-radius: 10px;
     /* background:rgb(12, 12, 12); */
     /* background:rgb(1, 7, 9); */
-    background:black;
+    background:rgb(15, 15, 16);
+    box-shadow:0px 0px 50px 0px rgb(33, 33, 33);
     
 } 
 /* /(Jiya) You have to write your css code here in this section below/ */
